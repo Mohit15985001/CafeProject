@@ -4,7 +4,7 @@ Website Link- https://mohit15985001.github.io/CafeProject/
 
 Project members - 
 
-1.Raj Kumawat
-2.Mridul Handoo
-3.Pranjal Munot
-4.Mohit Nathwani
+1.Mohit Nathwani<br/>
+2.Mridul Handoo<br/>
+3.Pranjal Munot<br/>
+4.Raj Kumawat<br/>
